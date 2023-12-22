@@ -1,0 +1,15 @@
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\bin\Debug\net6.0\LinkedListBucketSort.exe
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\bin\Debug\net6.0\LinkedListBucketSort.deps.json
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\bin\Debug\net6.0\LinkedListBucketSort.runtimeconfig.json
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\bin\Debug\net6.0\LinkedListBucketSort.dll
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\bin\Debug\net6.0\LinkedListBucketSort.pdb
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\obj\Debug\net6.0\LinkedListBucketSort.csproj.AssemblyReference.cache
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\obj\Debug\net6.0\LinkedListBucketSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\obj\Debug\net6.0\LinkedListBucketSort.AssemblyInfoInputs.cache
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\obj\Debug\net6.0\LinkedListBucketSort.AssemblyInfo.cs
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\obj\Debug\net6.0\LinkedListBucketSort.csproj.CoreCompileInputs.cache
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\obj\Debug\net6.0\LinkedListBucketSort.dll
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\obj\Debug\net6.0\refint\LinkedListBucketSort.dll
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\obj\Debug\net6.0\LinkedListBucketSort.pdb
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\obj\Debug\net6.0\LinkedListBucketSort.genruntimeconfig.cache
+C:\Users\4400113702\source\repos\LinkedListBucketSort\LinkedListBucketSort\obj\Debug\net6.0\ref\LinkedListBucketSort.dll
